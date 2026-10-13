@@ -1,56 +1,96 @@
-# Ecommerce-Sales
 # 🛒 Analysis of E-Commerce Sales and Customer Behavior
 
 **Project Year: 2025**
 
 ## 📌 Project Overview
 
-This project analyzes one year of e-commerce sales data to understand customer behavior, product performance, sales trends, and revenue patterns. Using Microsoft Excel, Power Query, and Power BI, the project transforms raw sales data into meaningful insights to support data-driven business decisions.
+This project analyzes one year of e-commerce sales data to understand customer behavior, product performance, pricing strategies, seasonal sales trends, and customer satisfaction. Using Microsoft Excel, Power Query, and Power BI, the project aims to identify business opportunities and recommend strategies to improve sales, revenue, and customer experience.
 
 ## 🎯 Project Objectives
 
 - Identify top-performing products and categories.
-- Analyze the relationship between product pricing, sales, and customer reviews.
-- Understand seasonal sales trends and monthly revenue patterns.
+- Analyze pricing impact on sales and customer reviews.
+- Understand seasonal sales patterns.
 - Evaluate customer satisfaction using review scores and review counts.
-- Provide recommendations to improve sales and business performance.
+- Develop recommendations to improve business performance.
 
 ## 🛠️ Tools & Technologies
 
-- **Microsoft Excel:** Data storage and initial inspection.
-- **Power Query:** Data cleaning, transformation, and table merging.
-- **Power BI:** Interactive dashboard creation and data visualization.
+- Microsoft Excel
+- Power Query
+- Microsoft Power BI
+- Data Cleaning and Transformation
+- Data Visualization and Business Intelligence
 
 ## 🔍 Key Analysis
 
 ### 1. Top-Performing Product Categories
-Analyze annual sales amounts and product sales volumes to identify the categories and products contributing most to overall revenue.
+
+Analyze annual sales amounts and product sales volumes to identify high-performing products and categories. Understand which products contribute most to revenue and where sales can be improved.
 
 ### 2. Pricing Impact on Sales & Reviews
-Examine product prices alongside sales performance and customer reviews to explore potential relationships between pricing, purchasing behavior, and satisfaction.
+
+Analyze product prices alongside sales performance and customer feedback. Identify opportunities for competitive pricing, affordable products, and attractive combo offers.
 
 ### 3. Seasonal Sales Trends
-Analyze monthly sales data to identify peak periods, seasonal patterns, and opportunities for targeted promotions.
+
+Analyze monthly sales to identify high-performing periods, including October, February, March, and July, as indicated by the project analysis.
 
 ### 4. Customer Satisfaction
-Use review scores and review counts to understand customer feedback, identify highly rated products, and highlight products needing improvement.
 
-## 💡 Recommendations
+Evaluate product review scores and review counts to identify popular products, highly rated categories, and products requiring improvement.
 
-1. **Improve Product Quality:** Investigate low-rated products and use customer feedback to guide improvements.
-2. **Target High-Scoring Categories:** Focus marketing efforts on categories with strong customer ratings.
-3. **Optimize Pricing:** Evaluate pricing strategies using sales performance and customer feedback.
-4. **Plan Seasonal Campaigns:** Schedule promotions around peak sales periods and seasonal demand.
+## 📊 Customer Review Analysis
+
+- **Total Review Score:** 527K
+- **Average Review Count:** 3.03
+- **High Review Score:** Above 4
+- **Low Review Score:** Below 2.5
+
+Products with strong customer ratings can be considered for advertising, promotions, and cross-selling opportunities.
+
+## 💡 Business Recommendations
+
+### 1. Improve Product Quality and Customer Experience
+
+- Offer good-quality products at competitive prices.
+- Improve product descriptions, images, and packaging quality.
+- Provide appropriate product quantities and reliable delivery.
+- Reduce delivery costs where possible through efficient logistics and eligible free-delivery offers.
+- Offer warranties for eligible electronic products.
+- Review customer complaints and improve low-rated products.
+
+### 2. Focus Marketing on High-Scoring Categories
+
+- Promote products with review scores above 4.
+- Use customer feedback to improve products scoring below 2.5.
+- Increase advertising for successful categories.
+- Introduce product bundles and cross-selling offers.
+- Provide gift vouchers and loyalty rewards to encourage repeat purchases.
+
+### 3. Optimize Product Pricing
+
+- Evaluate the performance of products priced around **100–300**, based on the project's pricing analysis.
+- Offer affordable products and attractive combo deals.
+- Introduce limited-time discounts and special offers.
+- Reconsider pricing for poorly performing high-priced products.
+- Compare profit margins before introducing discounts.
+
+### 4. Use Seasonality for Campaigns
+
+- Plan promotions around high-sales months.
+- Introduce holiday bundles and weekend offers.
+- Provide special discounts during promotional events.
+- Prepare inventory in advance for peak-demand periods.
+- Increase advertising through suitable marketing channels.
+- Use gift vouchers and limited-time offers to encourage purchases.
 
 ## 📈 Expected Outcome
 
-The project aims to identify sales opportunities, understand customer preferences, improve customer satisfaction, and support better business decisions through data analysis and interactive visualization.
+This project supports data-driven decisions to improve product performance, optimize pricing, increase customer satisfaction, plan effective promotional campaigns, and identify opportunities for sustainable e-commerce sales growth.
 
 ## 👤 Author
 
 Honey Stanly
 
-
-Data Analytics Enthusiast | Customer Support SME | Operations Analyst
-
-This project analyzes one year of e-commerce sales data to understand customer behavior, product performance, sales trends, and revenue patterns using data analysis tools.
+**Data Analytics Enthusiast | Customer Support SME | Operations Analyst**
