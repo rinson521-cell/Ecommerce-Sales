@@ -22,6 +22,18 @@ This project analyzes one year of e-commerce sales data to understand customer b
 - Data Cleaning and Transformation
 - Data Visualization and Business Intelligence
 
+- ## 📂 Sample Data Files
+
+The datasets and Power BI dashboard are included to help users understand the data preparation process, explore the sales analysis, and review the dashboard results.
+
+- `List of Orders.csv` – Contains order dates, customer names, states, and cities.
+- `Order Details.csv` – Contains order IDs, product details, sales amounts, quantities, and profit.
+- `Sales target.csv` – Contains monthly sales targets by category.
+- `Ecommerce_Sales_Dashboard.pbix` – Interactive Power BI dashboard.
+- `ecommerce_sales_dashboard.png` – Dashboard preview image.
+
+The datasets were cleaned and transformed using **Power Query** to prepare them for analysis and visualization.
+
 ## 🔍 Key Analysis
 
 ### 1. Top-Performing Product Categories
@@ -88,6 +100,48 @@ Products with strong customer ratings can be considered for advertising, promoti
 ## 📈 Expected Outcome
 
 This project supports data-driven decisions to improve product performance, optimize pricing, increase customer satisfaction, plan effective promotional campaigns, and identify opportunities for sustainable e-commerce sales growth.
+
+## 📌 Data & Analysis Considerations
+
+- The analysis is based on observed patterns in the E-commerce Sales dataset.
+- Missing values, duplicate records, and data types were checked during data preprocessing.
+- Sales, profit, quantity, and order trends were analyzed to understand business performance.
+- Outliers were identified but not automatically removed, as they may represent genuine high-value orders or unusual sales activity.
+- Sales performance may vary across product categories, regions, customer segments, and time periods.
+- The analysis identifies relationships and trends but does not establish causation.
+- Business recommendations are based on the available dataset and should be validated with further analysis before making major business decisions.
+
+## 🚀 Future Enhancements
+
+1. Perform advanced statistical analysis to identify key sales drivers.
+2. Analyze customer purchasing behavior and segment customers.
+3. Identify the best-selling and low-performing products.
+4. Analyze regional sales and profitability to identify growth opportunities.
+5. Build interactive dashboards using Power BI for better reporting.
+6. Develop sales forecasting models to predict future revenue.
+7. Recommend product combos, gift vouchers, weekend offers, and special discounts to encourage customer purchases.
+
+## 📁 Repository Structure
+
+```text
+Ecommerce-Sales/
+│
+├── 📓 Ecommerce_Sales_Analysis.ipynb
+├── 📄 List of Orders.csv
+├── 📄 Order Details.csv
+├── 📄 Sales target.csv
+├── 📄 README.md
+│
+└── 📁 visualizations/
+    ├── 📊 sales_overview.png
+    ├── 📊 monthly_sales_trend.png
+    ├── 📊 sales_by_category.png
+    ├── 📊 top_selling_products.png
+    ├── 📊 regional_sales.png
+    └── 📊 profit_analysis.png
+```
+
+
 
 ## 👤 Author
 
